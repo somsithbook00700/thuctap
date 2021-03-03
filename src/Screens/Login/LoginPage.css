@@ -1,0 +1,17 @@
+.row {
+  /* display: inline-block; */
+  /* border: 1px solid black; */
+  /* display: ; */
+  /* top: 50%; */
+  /* vertical-align: middle; */
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 20rem;
+}
+
+.col {
+  /* border: 1px solid black; */
+  padding: 2rem;
+  /* position: absolute; */
+  align-content: center;
+}
